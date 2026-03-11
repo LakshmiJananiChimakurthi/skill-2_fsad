@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>HibernateHQL</name>
+=======
+	<name>HibernateInventory</name>
+>>>>>>> 67ec10e84a6916594b093d992f5f8dedf3e1f8b4
 	<comment></comment>
 	<projects>
 	</projects>
